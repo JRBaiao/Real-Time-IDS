@@ -1,5 +1,3 @@
-Sure! Here's a clear, professional README template for a **Real-Time Intrusion Detection System (IDS)** project. You can customize it further based on your project specifics.
-
 ---
 
 # Real-Time Intrusion Detection System (IDS)
